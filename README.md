@@ -60,12 +60,20 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
   <h2>📅 My Contributions 📅</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liann-melanny-huaman-cunyas/liann-melanny-huaman-cunyas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liann-melanny-huaman-cunyas/liann-melanny-huaman-cunyas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liann-melanny-huaman-cunyas/liann-melanny-huaman-cunyas/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/liann-melanny-huamn-cunyas/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/liann-melanny-huamn-cunyas/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/liann-melanny-huamn-cunyas/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
-
 
 ⭐️ From [Liann](https://www.linkedin.com/in/liannmelannyhuamancunyas)
