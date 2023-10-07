@@ -26,7 +26,7 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 </div>
 
 <div  align='left'>
-
+<br/>
 ⚡ I’m currently learning **React JS and Docker**.
 
 👨🏽‍💻 I am a Systems Engineering student.
@@ -36,7 +36,8 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 💼 My skills are based on competencies.
 
 💬 Ask me about anything, I'm happy to help.
-<br />
+<br/>
+<br/>
 </div>
 
 
