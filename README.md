@@ -26,7 +26,9 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 </div>
 <br />
 <div  align='left'>
-⚡ I’m currently learning **React JS and Docker**.
+
+⚡ I’m currently learning <strong>React JS and Docker</strong>.
+
 
 👨🏽‍💻 I am a Systems Engineering student.
 
@@ -56,8 +58,8 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 <hr/>
 <div align="center">
   <h2>📅 My Contributions 📅</h2>
- 
-![snake animation](https://github.com/iann-melanny-huaman-cunyas/iann-melanny-huaman-cunyas/blob/output/github-contribution-grid-snake2.svg)
+
+![snake animation](https://github.com/liann-melanny-huaman-cunyas/liann-melanny-huaman-cunyas/blob/output/github-contribution-grid-snake2.svg)
 
   <hr/>
 </div>
