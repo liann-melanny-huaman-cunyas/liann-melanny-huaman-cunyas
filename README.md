@@ -1,23 +1,66 @@
+<h1 align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?				font=Righteous&size=35&duration=4000&pause=500&color=56F7F5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Liann+Melanny!" alt="Typing SVG" />
+</h1>
+<h3 align="center">「 A Passionate <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=500&color=56F7F5&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Developer from <b>Peru</b> 🇵🇪 」
+</h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/liannmelannyhuamancunyas"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kevin"/>
+ </a>
+ <a href="https://www.instagram.com/lmelannycunyas/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="kevin" />
+ </a> 
+   <a href="mailto:liannmelanny@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</p>
+<div  align='center'>
+Fun fact: <strong>The term "bug" to describe programming errors originated when Grace Hopper found a moth trapped in a computer relay</strong>
+</div>
+<br />
 
-## Hey 👋, I'm Liann Melanny
+<div  align='right'>
 
-Hi there, I'm **Liann Melanny**, a **Systems Engineering student**.
+<img  align="right"  src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" height="300" width="200">
 
-I love programming and I love PHP.
+</div>
 
-### Talking about Personal Stuffs:
+<div  align='left'>
 
-- 👨🏽‍💻 I am currently a Systems Engineering student in my fourth year; I complement my studies with Platzi and Udemy;
-- 🤔 I am very interested in web programming and data science;
-- 💼 My skills are based on competencies.
-- 💬 Ask me about anything, I'm happy to help.
+⚡ I’m currently learning **React JS and Docker**.
 
-### Languages and Tools:
+👨🏽‍💻 I am a Systems Engineering student.
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-PHP-1572B6?style=flat&logo=php&logoColor=white"> <img src = "https://img.shields.io/badge/-laravel-F1502F?style=flat&logo=laravel&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-FIGMA-FFFFFF?style=flat&logo=figma&logoColor=FF0000">
+🌱 I complement my studies with Platzi and Udemy.
 
-##  Let's connect :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-Liann_Melanny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liannmelannyhuamancunyas/)](https://www.linkedin.com/in/liannmelannyhuamancunyas/) [![Gmail Badge](https://img.shields.io/badge/-melanycunyas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melanycunyas@gmail.com)](mailto:melanycunyas@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@lmelannycunyas-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/lmelannycunyas/)](https://www.instagram.com/lmelannycunyas/)
+💼 My skills are based on competencies.
+
+💬 Ask me about anything, I'm happy to help.
+<br />
+</div>
+
+
+<div>
+<h2 align="center">💻 Tech Stack 💻</h2>
+</div>
+ <div align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,jquery,tailwind,vite" /><br><img src="https://skillicons.dev/icons?i=mysql,postgres,linux,postman,git,github,figma,vscode" /></a>
+  </div>
+<br/>
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/liann-melanny-huaman-cunyas?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white&color=cyan"/></a>
+</p>
+
+<hr/>
+<div align="center">
+  <h2>📅 My Contributions 📅</h2>
+ 
+![snake animation](https://github.com/iann-melanny-huaman-cunyas/iann-melanny-huaman-cunyas/blob/output/github-contribution-grid-snake2.svg)
+
+  <hr/>
+</div>
 
 
 ⭐️ From [Liann](https://github.com/liann-melanny-huaman-cunyas)
