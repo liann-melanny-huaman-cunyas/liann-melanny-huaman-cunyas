@@ -21,7 +21,7 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 
 <div  align='right'>
 
-<img  align="right"  src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" height="300" width="200">
+<img  align="right"  src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" height="200" width="200">
 
 </div>
 
