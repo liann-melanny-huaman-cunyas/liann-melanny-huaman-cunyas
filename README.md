@@ -24,9 +24,8 @@ Fun fact: <strong>The term "bug" to describe programming errors originated when 
 <img  align="right"  src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" height="200" width="200">
 
 </div>
-
+<br />
 <div  align='left'>
-<br/>
 ⚡ I’m currently learning **React JS and Docker**.
 
 👨🏽‍💻 I am a Systems Engineering student.
